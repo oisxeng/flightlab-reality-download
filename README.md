@@ -1,45 +1,59 @@
-# FlightLab Reality — Testversion
+# FlightLab Reality
 
-Photogrammetrie-Software für Vermessung und Bauwesen. Vom Drohnenbild zur
-CAD-fähigen Zeichnung, vollständig offline.
+**Photogrammetrie und Vermessung. Vollständig offline, unbefristete Lizenz.**
 
-## Download
+Dieses Repository dient allein der Auslieferung. Es enthält keinen Quelltext —
+nur die fertige Installationsdatei unter *Releases*.
 
-Die jeweils aktuelle Testversion liegt unter **[Releases](../../releases/latest)**.
+## Herunterladen
 
-## Was die Testversion kann
+**[FlightLab Reality herunterladen](https://github.com/oisxeng/flightlab-reality-download/releases/latest/download/FlightLabReality-setup.exe)**
 
-Dasselbe wie die Vollversion — sie rechnet vollständig. Punktwolke,
-Dreiecksfläche, Orthofoto, Geländemodell und Klassifizierung entstehen und
-lassen sich ansehen.
+Diese Adresse zeigt immer auf die neueste Fassung.
 
-Gesperrt sind zwei Dinge:
+Die Testfassung läuft **14 Tage mit vollem Funktionsumfang** — rechnen,
+messen, ausgeben. Keine Anmeldung, keine E-Mail-Adresse, keine Zahlungsdaten.
 
-* die **Messergebnisse** (Strecken, Flächen, Volumen, Profile)
-* jeder **Datenexport**
+## Die Datei ist signiert
 
-Damit lässt sich vor dem Kauf beurteilen, ob die Rekonstruktion Ihre
-Befliegung sauber trifft.
+Herausgeber laut Signatur:
 
-## Freischalten
+```
+Drone Life Systems FlexCo
+Unterfreundorf, Oberösterreich, AT
+```
 
-1. Lizenz auf [drohnenshop.at](https://drohnenshop.at/products/flightlab-reality) erwerben.
-2. Im Programm oben auf **Testversion** klicken — dort steht die
-   Gerätekennung `FLR-XXXX-XXXX-XXXX-XXXX`.
-3. Kennung an uns senden. Sie erhalten eine Schlüsseldatei, die Sie ins
-   Programmfenster ziehen.
-
-Ab da sind alle Funktionen dauerhaft frei. Die Prüfung läuft ausschließlich
-auf Ihrem Rechner; das Programm baut zu keinem Zeitpunkt eine
-Internetverbindung auf.
+Windows zeigt diesen Namen beim Installieren an. Steht dort etwas anderes oder
+„Unbekannter Herausgeber", stammt die Datei nicht von uns — bitte laden Sie sie
+dann ausschließlich über die Adresse oben.
 
 ## Systemvoraussetzungen
 
-Windows 10 oder 11 (64 Bit). Eine NVIDIA-Grafikkarte mit CUDA beschleunigt
-die dichte Berechnung erheblich. Empfohlen sind 32 GB Arbeitsspeicher und
-eine SSD mit reichlich freiem Platz.
+| | |
+|---|---|
+| Betriebssystem | Windows 10 oder 11, 64 Bit |
+| Arbeitsspeicher | 32 GB |
+| Grafikkarte | NVIDIA mit CUDA ist Voraussetzung: mindestens 8 GB Grafikspeicher (empfohlen 16 GB), ab GeForce GTX 10xx (Rechenfähigkeit 6.1). Ohne NVIDIA-Grafikkarte wird nicht gerechnet. |
+| Festplatte | SSD mit reichlich freiem Platz |
+| Internet | nicht erforderlich — auch nicht zum Freischalten |
 
----
+Die Systemprüfung im Programm sagt beim ersten Start, ob der Rechner genügt.
 
-© DROHNENSHOP.AT — dieses Repository enthält keinen Quelltext, nur den
-Download.
+## Kaufen und freischalten
+
+Zu kaufen über **[drohnenshop.at](https://drohnenshop.at/products/flightlab-reality)** (1.990 € brutto).
+
+1. Im Programm unter **Lizenz** die Gerätekennung dieses Rechners kopieren.
+2. Beim Bestellen im Shop ins Feld **„Gerätekennung"** einsetzen.
+3. Der Freischaltschlüssel kommt per E-Mail; er gilt für genau diesen Rechner.
+
+Wer die Kennung beim Bestellen vergessen hat, reicht sie mit der
+Bestellnummer an **roof@flightlab.at** nach. Das Programm baut zu keinem
+Zeitpunkt eine Verbindung nach außen auf.
+
+## Anbieter
+
+**Drone Life Systems FlexCo** · Unterfreundorf 17, A-4076 Unterfreundorf, Österreich · FN 624110i · UID ATU80636956
+· GISA 37719746
+
+Schwachstellenmeldungen: **security@flightlab.at**
