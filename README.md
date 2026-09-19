@@ -41,7 +41,7 @@ Die Systemprüfung im Programm sagt beim ersten Start, ob der Rechner genügt.
 
 ## Kaufen und freischalten
 
-Zu kaufen über **[drohnenshop.at](https://drohnenshop.at/products/flightlab-reality)** (1.990 € brutto).
+Zu kaufen über **[drohnenshop.at](https://drohnenshop.at/products/flightlab-reality)** (1.190 € brutto).
 
 1. Im Programm unter **Lizenz** die Gerätekennung dieses Rechners kopieren.
 2. Beim Bestellen im Shop ins Feld **„Gerätekennung"** einsetzen.
